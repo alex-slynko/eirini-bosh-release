@@ -10,3 +10,6 @@
 [submodule "src/github.com/SUSE/eirini-extensions"]
 	path = src/github.com/SUSE/eirini-extensions
 	url = https://github.com/SUSE/eirini-extensions.git
+[submodule "src/github.com/SUSE/eirini-loggregator-bridge"]
+	path = src/github.com/SUSE/eirini-loggregator-bridge
+	url = git@github.com:SUSE/eirini-loggregator-bridge.git
